@@ -62,8 +62,4 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=InterfaceAlchemist&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
