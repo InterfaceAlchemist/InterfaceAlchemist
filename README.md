@@ -4,7 +4,7 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 
 ---
 
-## What I'm Doing Now
+## What I Do
 
 - 🎨 Blending brand & UI/UX design with full-stack development on every project I take on
 - 🗺️ Recently shipped a 4-dashboard enterprise GIS platform with live satellite map overlays
