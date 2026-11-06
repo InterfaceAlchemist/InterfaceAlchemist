@@ -11,7 +11,7 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 - 🖌️ Designing case management and volunteer platforms end-to-end in Figma, then building them out
 - 🧩 Bouncing between Illustrator/Photoshop and Vue/PHP — same problem, different tools
 - 🎓 Cum Laude graduate, B.S. Information Technology, Pampanga State University (2026)
-- 👀 Open to **Creative Designer & Developer** roles
+- 👀 Open to **Creative Developer & Designer** roles
 
 ---
 
