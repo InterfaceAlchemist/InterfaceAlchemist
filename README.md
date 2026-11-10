@@ -7,7 +7,6 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 ## What I Do
 
 - 🎨 Blending brand & UI/UX design with full-stack development on every project I take on
-- 🗺️ Recently shipped a 4-dashboard enterprise GIS platform with live satellite map overlays
 - 🖌️ Designing case management and volunteer platforms end-to-end in Figma, then building them out
 - 🧩 Bouncing between Illustrator/Photoshop and Vue/PHP — same problem, different tools
 - 🎓 Cum Laude graduate, B.S. Information Technology - Pampanga State University, Philippines (2026)
@@ -18,14 +17,14 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 
 ## 🛠️ Tech Stack
 
-**💻 Programming Languages**
+*Programming Languages*
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-**🎨 Frontend Development**
+*Frontend Development*
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -34,13 +33,13 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 
-**🗄️ Databases & Backend Services**
+*Databases & Backend Services*
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-**🖌️ Design & Creative Tools**
+*Design & Creative Tools*
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
@@ -49,14 +48,14 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-**⚙️ Development Tools & Deployment**
+*Development Tools & Deployment*
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-**🎮 Game Development**
+*Game Development*
 
 ![Godot Engine](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godot-engine&logoColor=white)
 
