@@ -1,10 +1,10 @@
-# About Me
+# *About Me*
 
 Creative Designer & Developer who bridges the gap between how things look and how they work. I bring brand identity, UI/UX, and pixel-level design sense together with full-stack development — from Figma wireframes to production-ready Vue and PHP applications. Whether it's designing a logo system from scratch or shipping a live GIS dashboard, I care about the same thing: crafting experiences that are both beautiful and genuinely usable.
 
 ---
 
-## What I Do
+## *What I Do*
 
 - 🎨 Blending brand & UI/UX design with full-stack development on every project I take on
 - 🖌️ Designing case management and volunteer platforms end-to-end in Figma, then building them out
@@ -15,7 +15,7 @@ Creative Designer & Developer who bridges the gap between how things look and ho
 ---
 
 
-## 🛠️ Tech Stack
+## *Tech Stack*
 
 *Programming Languages*
 
