@@ -1,16 +1,20 @@
 # *About Me*
 
-Creative Designer & Developer who bridges the gap between how things look and how they work. I bring brand identity, UI/UX, and pixel-level design sense together with full-stack development — from Figma wireframes to production-ready Vue and PHP applications. Whether it's designing a logo system from scratch or shipping a live GIS dashboard, I care about the same thing: crafting experiences that are both beautiful and genuinely usable.
+I'm a **Creative Developer & Designer** passionate about building digital experiences where thoughtful design meets functional development. I work across UI/UX design, frontend development, and visual communication, transforming ideas into intuitive interfaces and practical digital solutions.
+
+With a background in Information Technology and a strong interest in design, I approach every project with both creativity and technical thinking — from crafting user-centered interfaces in Figma to developing responsive web applications using modern frontend technologies.
+
+I believe great digital products should not only look good but also solve real problems, deliver meaningful experiences, and work seamlessly.
 
 ---
 
 ## *What I Do*
 
-- 🎨 Blending brand & UI/UX design with full-stack development on every project I take on
-- 🖌️ Designing case management and volunteer platforms end-to-end in Figma, then building them out
-- 🧩 Bouncing between Illustrator/Photoshop and Vue/PHP — same problem, different tools
-- 🎓 Cum Laude graduate, B.S. Information Technology - Pampanga State University, Philippines (2026)
-- 👀 Open to **Creative Developer & Designer** roles
+- 🎨 **UI/UX & Product Design** — Creating intuitive, user-centered interfaces, wireframes, and prototypes with Figma.
+- 💻 **Frontend Development** — Building responsive and interactive web applications using HTML, CSS, JavaScript, Vue.js, and Tailwind CSS.
+- 🧩 **Creative & Visual Design** — Developing brand identities, visual assets, and digital materials using Adobe Illustrator and Photoshop.
+- ⚙️ **Web Application Development** — Turning design concepts into functional applications and exploring practical solutions through PHP and database techs.
+- 🚀 **Continuous Learning** — Expanding my technical skills, exploring emerging technologies, and continuously improving how I design and build.
 
 ---
 
