@@ -16,6 +16,9 @@ I believe great digital products should not only look good but also solve real p
 - ⚙️ **Web Application Development** — Turning design concepts into functional applications and exploring practical solutions through PHP and database techs.
 - 🚀 **Continuous Learning** — Expanding my technical skills, exploring emerging technologies, and continuously improving how I design and build.
 
+**Education:** Cum Laude Graduate, Bachelor of Science in Information Technology — Pampanga State University (2026).
+
+**Currently open to:** Creative Developer, Frontend Developer, UI/UX Designer, and related opportunities.
 ---
 
 
