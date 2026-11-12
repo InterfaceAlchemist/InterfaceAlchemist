@@ -10,15 +10,16 @@ I believe great digital products should not only look good but also solve real p
 
 ## *What I Do*
 
-- 🎨 **UI/UX & Product Design** — Creating intuitive, user-centered interfaces, wireframes, and prototypes with Figma.
-- 💻 **Frontend Development** — Building responsive and interactive web applications using HTML, CSS, JavaScript, Vue.js, and Tailwind CSS.
-- 🧩 **Creative & Visual Design** — Developing brand identities, visual assets, and digital materials using Adobe Illustrator and Photoshop.
-- ⚙️ **Web Application Development** — Turning design concepts into functional applications and exploring practical solutions through PHP and database techs.
-- 🚀 **Continuous Learning** — Expanding my technical skills, exploring emerging technologies, and continuously improving how I design and build.
+- 🎨 **UI/UX Design** — Crafting intuitive interfaces and prototypes with Figma.
+- 💻 **Frontend Development** — Building responsive web applications with Vue.js and modern web technologies.
+- 🧩 **Visual Design** — Creating brand identities and digital assets using Adobe Creative Suite.
+- ⚙️ **Web Development** — Developing functional applications with PHP and database technologies.
+- 🚀 **Continuous Learning** — Exploring new technologies and continuously refining my design and development skills.
 
 **Education:** Cum Laude Graduate, Bachelor of Science in Information Technology — Pampanga State University (2026).
 
-**Currently open to:** Creative Developer, Frontend Developer, UI/UX Designer, and related opportunities.
+**Currently open to:** Frontend Development, UI/UX Design, and related opportunities.
+
 ---
 
 
